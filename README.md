@@ -186,3 +186,8 @@ summary.
   reports the thrashing message on fresh sessions.
 - [anthropics/claude-code#31806](https://github.com/anthropics/claude-code/issues/31806)
   reports that the override can lower the threshold but not raise it.
+
+## License
+
+Everything in this repository is dedicated to the public domain under
+[CC0 1.0](LICENSE). No attribution is required.
